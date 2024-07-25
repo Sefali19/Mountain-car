@@ -1,4 +1,4 @@
-# Mountain Car Q-Learning
+# Q-learning on Mountain car environment
 
 This project implements Q-learning to solve the Mountain Car problem using OpenAI Gym.
 
